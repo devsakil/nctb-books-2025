@@ -1,3 +1,8 @@
+ <meta
+      name="google-site-verification"
+      content="Re3zkhdyb8rOxfmxNEU9JtI4ifeuwq4NnYluuUpdADQ"
+    />
+
 # বোর্ড বইসমূহ ২০২৫ অ্যাপ | NCTB Books 2025 APP
 
 ![Play Store Feature Image](https://play-lh.googleusercontent.com/t_r7QedJyXEkuRTkDZywiR4ioJQwnxTbOiiovSfYstciPGSH_snbFqeloevlvzh6p6c=w832-h470-rw)
